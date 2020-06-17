@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "onlinelearningsystem",
+    "slug": "snack-ab4d5b67-8200-42a7-9024-274481a10194",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web":{
+    "config": {
+      "firebase": {
+  "apiKey": "AIzaSyChhmdrmgHd26ZTqErhabWjFkBtkLXZu8E",
+  "authDomain" : "globo-f7d01.firebaseapp.com",
+  "databaseURL" : "https://globo-f7d01.firebaseio.com",
+  "projectId" : "globo-f7d01",
+  "storageBucket" : "globo-f7d01.appspot.com",
+  "messagingSenderId" : "485648121059"
+  }
+  }
+}
+  }
+}
