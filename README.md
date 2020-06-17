@@ -1,7 +1,5 @@
 # Online Learning System app
 
-This project is for mobile application development course. <br/><br/>
-
 [Download apk File](https://mega.nz/file/wQIjySzY#3oJNjGNBwkgiKsYp380jYAz5FdWR5xYtgOy5wtLSrtk)
 
 OR you can Download Expo app from Playstore <br/>
